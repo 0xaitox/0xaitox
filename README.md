@@ -1,20 +1,6 @@
-# Anthony ISSA ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.readme)
+# aitox ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.readme)
 
-👋 Hi! I’m Anthony, 22, blockchain fullstack developer and tech addict.
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
-
-## About me 🤔
-- 👀 I’m interested in blockchain and programming.
-- 📚 Currently blockchain fullstack developer @ [Digital Asset Solutions](https://digitalassetsolutions.fr/)
-- 💡 My daily life is made of: building and pitching projects, hackathons, exploring web3 & tech spaces.
-
-## Links 🖇️
-
-💡 [My Website](https://www.anthony-issa.com/) <br><br>
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter)](https://x.com/0xaitox)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
-[![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.com/users/229511387859255306)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
 
 ## Tech stuff I use 💻
 
@@ -84,25 +70,3 @@ I speak French, English, Arabic und ein bisschen Deutsch.
 | 1st @ EthGlobal Paris | Jul' 2023 | [EthGlobal](https://ethglobal.com/showcase/on-chain-messaging-aggregator-3eshd) |
 | 2nd @ HEC Paris Hackathon | Oct' 2023 | [HEC Paris](https://www.hec.edu/en) |
 | +12k $ @ EthGlobal New York | Sept' 2023 | [EthGlobal](https://ethglobal.com/showcase/zerofi-tatma) |
-
-## Work Experiences 🧑‍💻
-
-| What | When | Where |
-| --- | --- | --- |
-| Blockchain Fullstack Developer | Sep' 2022-Today | [Digital Asset Solutions](https://digitalassetsolutions.fr/) |
-| Co-Founder | Jan' 2023-Today | [Neobloom](https://neobloom.fr/) |
-| Computer Science Tutor | 2022 | [My Website](https://anthony-issa.com/) |
-| Operations Manager France | 2021 | [Worldcoin](https://worldcoin.org/) |
-| Fullstack Developer | 2021-2022 | [Storyzy](https://storyzy.com/) |
-
-## Studies 📚
-
-| What | When | Where |
-| --- | --- | --- |
-| Financial Technology Engineer | 2022-2025 | [ESILV](https://www.esilv.fr/) |
-| Computer Science National Diploma | 2020-2022 | [IUT DE MONTREUIL](https://www.iut.univ-paris8.fr/) |
-
-<!---
-MadderStone/MadderStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
